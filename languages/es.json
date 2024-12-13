@@ -1,0 +1,20 @@
+{
+    "welcome": "¡Hola, {name}! Soy un bot de pronóstico del clima.\n\nPuedes usar los siguientes comandos:\n/weather - Obtener el clima actual\n/forecast - Obtener el pronóstico del clima\n/setlanguage - Establecer el idioma preferido\n/help - Mostrar la lista de comandos\n/about - Saber más sobre el bot\n/location - Enviar geolocalización\n/cancel - Cancelar acción actual",
+    "start": "¡Hola! Soy un bot de pronóstico del clima. Usa /weather para obtener el clima actual y /forecast para el pronóstico del clima.",
+    "weather_not_found": "No se pudo encontrar la ciudad: {city}. Por favor, inténtalo de nuevo.",
+    "forecast_not_found": "No se pudo encontrar la ciudad: {city}. Por favor, inténtalo de nuevo.",
+    "no_city_provided": "Por favor, ingresa el nombre de la ciudad después del comando.",
+    "set_language_success": "Idioma cambiado con éxito a {language}.",
+    "invalid_language": "Idioma inválido. Por favor, elige 'ru', 'en' o 'es'.",
+    "help": "Comandos disponibles:\n/start - Iniciar el bot\n/help - Mostrar lista de comandos disponibles\n/weather - Obtener el clima actual\n/forecast - Obtener el pronóstico del clima\n/setlanguage - Establecer el idioma preferido\n/about - Saber más sobre el bot\n/location - Enviar geolocalización\n/cancel - Cancelar acción actual",
+    "invalid_command": "Comando inválido. Usa /help para ver los comandos disponibles.",
+    "please_enter_city": "Por favor, ingresa el nombre de la ciudad.",
+    "api_error": "Ocurrió un error al obtener los datos. Por favor, inténtalo de nuevo más tarde.",
+    "processing_error": "Ocurrió un error al procesar los datos del clima.",
+    "invalid_city": "Nombre de ciudad inválido. Por favor, inténtalo de nuevo.",
+    "cancel": "Acción cancelada.",
+    "choose_language": "Por favor, elige un idioma:",
+    "send_location": "Por favor, envía tu ubicación.",
+    "invalid_location": "Ubicación inválida. Por favor, inténtalo de nuevo.",
+    "about": "Este bot proporciona información meteorológica actualizada y un pronóstico semanal. Admite múltiples idiomas y utiliza elementos visuales para mejorar la entrega de información."
+}

@@ -1,0 +1,29 @@
+# Файлы с конфиденциальными данными
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE Files
+.vscode/
+.idea/
+*.iml
+
+
+# MacOS Files
+.DS_Store
+
+# Logs
+*.log
+
+# Файлы базы данных
+*.db
+

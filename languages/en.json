@@ -1,0 +1,20 @@
+{
+    "welcome": "Hello, {name}! I am a weather forecast bot.\n\nYou can use the following commands:\n/weather - Get current weather\n/forecast - Get weather forecast\n/setlanguage - Set preferred language\n/help - Show list of commands\n/about - Learn more about the bot\n/location - Send location\n/cancel - Cancel current action",
+    "start": "Hello! I am a weather forecast bot. Use /weather to get current weather and /forecast for weather forecast.",
+    "weather_not_found": "Could not find city: {city}. Please try again.",
+    "forecast_not_found": "Could not find city: {city}. Please try again.",
+    "no_city_provided": "Please enter the city name after the command.",
+    "set_language_success": "Language successfully changed to {language}.",
+    "invalid_language": "Invalid language. Please choose 'ru', 'en', or 'es'.",
+    "help": "Available commands:\n/start - Start the bot\n/help - Show list of available commands\n/weather - Get current weather\n/forecast - Get weather forecast\n/setlanguage - Set preferred language\n/about - Learn more about the bot\n/location - Send location\n/cancel - Cancel current action",
+    "invalid_command": "Invalid command. Use /help to see available commands.",
+    "please_enter_city": "Please enter the city name.",
+    "api_error": "An error occurred while fetching data. Please try again later.",
+    "processing_error": "An error occurred while processing weather data.",
+    "invalid_city": "Invalid city name. Please try again.",
+    "cancel": "Action canceled.",
+    "choose_language": "Please choose a language:",
+    "send_location": "Please send your location.",
+    "invalid_location": "Invalid location. Please try again.",
+    "about": "This bot provides up-to-date weather information and a weekly forecast. It supports multiple languages and uses visual elements to enhance information delivery."
+}
